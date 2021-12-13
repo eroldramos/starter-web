@@ -1,5 +1,6 @@
 # Starter Web Project
 This is a simeple website project for showing how to use Git and Github together. Adding a kube fir rebasing example
+then more changes from myfeature branch too.
 ## Introduction
 This is example is to show different parts of the git repository and various commands using a web project
 ## Purpose
