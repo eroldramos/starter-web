@@ -7,3 +7,7 @@ As stated above, the main purpose it to provide simple example for Git training 
 ## Deployement
 This is a simeple web project, deployment can be on any web server or even local file system.
 ## How to Contribute
+
+### Copyright
+
+2014 Git.Training
