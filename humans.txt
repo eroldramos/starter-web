@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Erold Ramos dev.eroldramos@gmail.com @rldrms
 
 # THANKS
 
