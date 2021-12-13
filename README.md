@@ -8,6 +8,10 @@ As stated above, the main purpose it to provide simple example for Git training 
 This is a simeple web project, deployment can be on any web server or even local file system.
 ## How to Contribute
 
+
+Please fork this repository and then issue Pull requests for review.
+
+
 ### Copyright
 
 2014 Git.Training
